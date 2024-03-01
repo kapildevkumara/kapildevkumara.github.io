@@ -31,8 +31,8 @@ Work experience
 ======
 * **Masters Student Research Assistant at the Institute for Man-Machine Interaction**  <br>
 RWTH Aachen University, Aachen, Germany: <numsp> Jun 2023 - Dec 2023
-  * Developed Python package installer for Verosim 3D simulations software (Software Development). 
-  * Worked on modelling and evaluation of kinematic sensor models(Lidar, camera) in Verosim for ADAS application. 
+  * Developed Python package installer for Verosim 3D simulations software. 
+  * Worked on modelling and evaluation of kinematic sensor models (Lidar, camera) in Verosim for ADAS application. 
 
 * **Hardware Electrical Engineer for Machine Vision, Student Assistant** <br>
 Cognex Corporation, Aachen, Germany: <numsp> Aug 2022 - Jul 2023
@@ -71,7 +71,9 @@ Programmed the Classical Snake Game with OpenCV in Python. Automated the snake (
 Built a real-time object detection model using Intel Realsense Stereo Camera. Computed the 3D Coordinates of the user-defined object detected by a Single Shot Detection Model and Disparity Map. 
 
 * **Robotic Perception with OpenCV:** <numsp> (Dec 2018)  <br>		
-Developed modules for Perception and Navigation 1) Stereo and mono camera calibration for determining of intrinsic and extrinsic camera matrix. 2) Pose estimation using ArUco Markers for accurate pose estimation and navigation. 
+Developed modules for Perception and Navigation:  <br>	
+1) Stereo and mono camera calibration for determining of intrinsic and extrinsic camera matrix.  <br>	
+2) Pose estimation using ArUco Markers for accurate pose estimation and navigation. 
 
 * **Two-Wheeled Self-Balancing Robot, funded by SSN College of Engineering:** (Apr 2018) 	  
 Constructed a two-wheeled self-balancing robot with Arduino, encoders and IMUs. Deployed sensor fusion with PID, and LQR control algorithms to stabilize the orientation of the robot under external disturbances. Analysed the stability and controller performance in Matlab.  
