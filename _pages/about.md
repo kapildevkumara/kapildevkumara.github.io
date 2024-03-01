@@ -31,28 +31,24 @@ Work experience
 ======
 * **Masters Student Research Assistant at the Institute for Man-Machine Interaction**  <br>
 RWTH Aachen University, Aachen, Germany (Jun 2023 - Dec 2024)
-  * **Work:** 
-    1. Developed Python package installer for Verosim 3D simulations software (Software Development). 
-    2. Worked on modelling and evaluation of kinematic sensor models(Lidar, camera) in Verosim for ADAS application. 
+  * Developed Python package installer for Verosim 3D simulations software (Software Development). 
+  * Worked on modelling and evaluation of kinematic sensor models(Lidar, camera) in Verosim for ADAS application. 
 
 * **Hardware Electrical Engineer for Machine Vision, Student Assistant** <br>
 Cognex Corporation, Aachen, Germany (Aug 2022 - Jul 2023)
-  * **Work:** 
-    1. Contributed to the prototype development, PCB rework, and fault analysis ensuring functionality and delivery on-time. 
-    2. Engaged in testing and debugging of camera systems to meet the electrical design specifications.  
+  * Contributed to the prototype development, PCB rework, and fault analysis ensuring functionality and delivery on-time. 
+  * Engaged in testing and debugging of camera systems to meet the electrical design specifications.  
 
 * **Computer Vision Engineer** <br>
 e-con Systems Private Limited, Chennai, India (Jul 2018 - Jun 2018)
-  * **Work:** 
-    1. Engineered a point cloud-based automated 3D parcel dimensioner and enhanced accuracy up to 10mm in dimensioning boxes of diverse sizes. 
-    2. Algorithm Development of a robust face detection system with stereo cameras, devising liveness analysis and deep learning for the detection of spoofed facial images with precision up to 95%.
-    3. Established video stabilization using inertial sensors, sensor fusion and low-latency algorithm integration for motion and vibration compensation in real-time scenarios.
+  * Engineered a point cloud-based automated 3D parcel dimensioner and enhanced accuracy up to 10mm in dimensioning boxes of diverse sizes. 
+  * Algorithm Development of a robust face detection system with stereo cameras, devising liveness analysis and deep learning for the detection of spoofed facial images with precision up to 95%.
+  * Established video stabilization using inertial sensors, sensor fusion and low-latency algorithm integration for motion and vibration compensation in real-time scenarios.
 
 * **Bachelor Student Intern, Internship** <br>
 IIT Madras, Chennai, India (May 2017 - Aug 2017)
-  * **Work:** 
-     1. **Project 1:** Mathematical model and implementation of PID controller for air cooling system in Matlab.
-     2. **Project 2:** Implementation of sensorless BLDC motor control using the back EMF detection in STM32 microcontroller.
+  * **Project 1:** Mathematical model and implementation of PID controller for air cooling system in Matlab.
+  * **Project 2:** Implementation of sensorless BLDC motor control using the back EMF detection in STM32 microcontroller.
 
 
 Skills
@@ -65,10 +61,10 @@ Skills
 
 Projects
 ======
-* **Automatic mini-bullseye board at MedIT, RWTH Aachen:**    (Jun 2022) <br>		
+* **Automatic mini-bullseye board at MedIT, RWTH Aachen:**  (Jun 2022) <br>		
 Designed a scaled-down replica of an autonomous bullseye dartboard featuring a dynamic arm equipped with a camera and Jetson Nano. Achieved real-time ball trajectory tracking and interception using image processing and control. 
 
-* **Snake game with Path Planning:** (May 2020)**  <br>
+* **Snake game with Path Planning:** (May 2020)  <br>
 Programmed the Classical Snake Game with OpenCV in Python. Automated the snake(robot) movement using path planning algorithms for intelligent navigation of the snake towards the goal. 
 
 * **3D Object Recognizer:** (Aug 2019)	<br>
@@ -77,14 +73,14 @@ Built a real-time object detection model using Intel Realsense Stereo Camera. Co
 * **Robotic Perception with OpenCV:** (Dec 2018)  <br>		
 Developed modules for Perception and Navigation 1) Stereo and mono camera calibration for determining of intrinsic and extrinsic camera matrix. 2) Pose estimation using ArUco Markers for accurate pose estimation and navigation. 
 
-* **Two-Wheeled Self-Balancing Robot, funded by SSN College of Engineering:** (Dec 2017 - May 2018) <br>	  
+* **Two-Wheeled Self-Balancing Robot, funded by SSN College of Engineering:** (Apr 2018) <br>	  
 Constructed a two-wheeled self-balancing robot with Arduino, encoders and IMUs. Deployed sensor fusion with PID, and LQR control algorithms to stabilize the orientation of the robot under external disturbances. Analysed the stability and controller performance in Matlab.  
         
 * **Modeling and control of Aerothrust Pendulum:** (Sep 2016)	 <br>
 Conceptualized the mathematical model, performing system identification and state analysis of the response of the Aerothrust Pendulum. Implemented PID control for the system in FPGA with Model-Based Design using Matlab and Xilinx System Generator. 
 
 
-Additional_experience_and_awards
+Additional Experience and awards
 ======
 * **Certified Online Courses:** 
 Self-driving Cars (Udacity - Ongoing), Neural Networks and Deep Learning (Andrew NG), Digital Signal Processing (EPFL Switzerland), Control of Mobile Robots (Georgia Tech) 
