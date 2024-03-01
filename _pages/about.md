@@ -87,20 +87,20 @@ Conceptualized the mathematical model, performing system identification and stat
 
 Additional_experience_and_awards
 ======
-* **Certified Online Courses**
+* **Certified Online Courses:**
 Self-driving Cars (Udacity - Ongoing), Neural Networks and Deep Learning (Andrew NG), Digital Signal Processing (EPFL Switzerland), Control of Mobile Robots (Georgia Tech) 
 
-* **Summer School at FH Aachen**
+* **Summer School at FH Aachen:**
 Participated in the Summer School on 'Sustainable Entrepreneurship 2023', engaging in interdisciplinary teamwork, and expert sessions, culminating in a pitch for innovative ideas.
 
-* **Competitions and Awards**
+* **Competitions and Awards:**
 Recipient of the RWTH Student Project Grant 2022, for field research and project work. Awardee and Active Participant in various hackathons and competitions in the years 2014-2023.     
 
-* **University-level Leadership**
+* **University-level Leadership:**
 As head of the S4S Club, organised several tech events and workshops at SSN College during 2016-18. As Placement Co-ordinator contributed to the facilitation of students to pursue career opportunities.
 
 * **Other interests** 
-Yoga, Blogging[https://excerptoflife.wordpress.com/], Finance[https://www.instagram.com/financememers/] 
+Yoga, [Blogging](https://excerptoflife.wordpress.com/), [Finance](https://www.instagram.com/financememers/) 
   
 
 
