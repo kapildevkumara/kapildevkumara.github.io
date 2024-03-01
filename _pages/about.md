@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Portfolio"
+title: "My Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -64,13 +64,13 @@ Projects
 * **Automatic mini-bullseye board at MedIT, RWTH Aachen:**  &emsp; (Jun 2022) <br>		
 Designed a scaled-down replica of an autonomous bullseye dartboard featuring a dynamic arm equipped with a camera and Jetson Nano. Achieved real-time ball trajectory tracking and interception using image processing and control. 
 
-* **Snake game with Path Planning:** &emsp; (May 2020)  <br>
+* **Snake game with Path Planning:** &emsp; (Jan 2021)  <br>
 Programmed the Classical Snake Game with OpenCV in Python. Automated the snake (robot) movement using path planning algorithms for intelligent navigation of the snake towards the goal. 
 
-* **3D Object Recognizer:** &emsp; (Aug 2019)	<br>
+* **3D Object Recognizer:** &emsp; (Apr 2020)	<br>
 Built a real-time object detection model using Intel Realsense Stereo Camera. Computed the 3D Coordinates of the user-defined object detected by a Single Shot Detection Model and Disparity Map. 
 
-* **Robotic Perception with OpenCV:** &emsp; (Dec 2018)  <br>		
+* **Robotic Perception with OpenCV:** &emsp; (Jan 2019)  <br>		
 Developed modules for Perception and Navigation:  <br>	
 1.Stereo & mono camera calibration for determining of intrinsic & extrinsic camera matrix.  <br>	
 2.Pose estimation using ArUco Markers for accurate pose estimation and navigation. 
