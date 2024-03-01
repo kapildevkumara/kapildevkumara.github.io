@@ -72,8 +72,8 @@ Built a real-time object detection model using Intel Realsense Stereo Camera. Co
 
 * **Robotic Perception with OpenCV:** <numsp> (Dec 2018)  <br>		
 Developed modules for Perception and Navigation:  <br>	
-1) Stereo and mono camera calibration for determining of intrinsic and extrinsic camera matrix.  <br>	
-2) Pose estimation using ArUco Markers for accurate pose estimation and navigation. 
+1.Stereo & mono camera calibration for determining of intrinsic & extrinsic camera matrix.  <br>	
+2.Pose estimation using ArUco Markers for accurate pose estimation and navigation. 
 
 * **Two-Wheeled Self-Balancing Robot, funded by SSN College of Engineering:** (Apr 2018) 	  
 Constructed a two-wheeled self-balancing robot with Arduino, encoders and IMUs. Deployed sensor fusion with PID, and LQR control algorithms to stabilize the orientation of the robot under external disturbances. Analysed the stability and controller performance in Matlab.  
