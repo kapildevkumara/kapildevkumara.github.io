@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * **Master of Science in Electrical, Information Technology and Computer Engineering** <br>			
-RWTH Aachen University, Germany: &emsp; 2021 - 2024 (expected) 
+[RWTH Aachen University, Germany](https://www.rwth-aachen.de/): &emsp; 2021 - 2024 (expected) 
   * **Specialization Track:** Systems and Automation 
   * **Grade:** 1.9/4.0 German Scale
   * **Relevant Courses:** 1. Machine Learning 2. Control and Perception of Autonomous Vehicles 3. Artificial Intelligence 4. Robotics 5. Automated and Connected Driving 6. Modelling, Identification and Control of Mechatronic Systems.
@@ -20,7 +20,7 @@ RWTH Aachen University, Germany: &emsp; 2021 - 2024 (expected)
 
 
 * **Bachelor of Engineering in Electrical and Electronics** <br>
-SSN College of Engineering, Anna University, India: &emsp; 2014 - 2018
+[SSN College of Engineering, Anna University, India](https://www.ssn.edu.in/): &emsp; 2014 - 2018
   * **Grade:** 2.3/4.0 German Scale (CGPA: 7.7/10.0)  
   * **Relevant Courses:** 1. Object Oriented Programming 2. Embedded Systems 3. Control Systems 4. Microcontrollers and Microprocessors 5. System Identification and Advanced Control.
   * **My Learning:** Foundation in electrical engineering principles, fostering problem-solving skills, effective communication and collaboration in projects. 
@@ -29,24 +29,24 @@ SSN College of Engineering, Anna University, India: &emsp; 2014 - 2018
 
 Work experience
 ======
-* **Masters Student Research Assistant at the Institute for Man-Machine Interaction**  <br>
+* **Masters Student Research Assistant, Institute for Man-Machine Interaction (Robotics)**  <br>
 RWTH Aachen University, Aachen, Germany: &emsp; Jun 2023 - Dec 2023
   * Developed Python package installer for Verosim 3D simulations software. 
   * Worked on modelling and evaluation of kinematic sensor models (Lidar, camera) in Verosim for ADAS application. 
 
 * **Hardware Electrical Engineer for Machine Vision, Student Assistant** <br>
-Cognex Corporation, Aachen, Germany: &emsp; Aug 2022 - Jul 2023
+[Cognex Corporation, Aachen, Germany](https://www.cognex.com/): &emsp; Aug 2022 - Jul 2023
   * Contributed to the prototype development, PCB rework, and fault analysis ensuring functionality and delivery on-time. 
   * Engaged in testing and debugging of camera systems to meet the electrical design specifications.  
 
 * **Computer Vision Engineer** <br>
-e-con Systems Private Limited, Chennai, India: &emsp; Jul 2018 - Jun 2020
+[e-con Systems Private Limited, Chennai, India](https://www.e-consystems.com/): &emsp; Jul 2018 - Jun 2020
   * Engineered a point cloud-based automated 3D parcel dimensioner and enhanced accuracy up to 10mm in dimensioning boxes of diverse sizes. 
   * Algorithm Development of a robust face detection system with stereo cameras, devising liveness analysis and deep learning for the detection of spoofed facial images with precision up to 95%.
   * Established video stabilization using inertial sensors, sensor fusion and low-latency algorithm integration for motion and vibration compensation in real-time scenarios.
 
 * **Bachelor Student Intern, Internship** <br>
-IIT Madras, Chennai, India: &emsp; May 2017 - Aug 2017
+[IIT Madras, Chennai, India](https://www.iitm.ac.in/): &emsp; May 2017 - Aug 2017
   * **Project 1:** Mathematical model and implementation of PID controller for air cooling system in Matlab.
   * **Project 2:** Implementation of sensorless BLDC motor control using the back EMF detection in STM32 microcontroller.
 
@@ -97,8 +97,5 @@ Recipient of the RWTH Student Project Grant 2022, for field research and project
 As head of the S4S Club, organised several tech events and workshops at SSN College during 2016-18. As Placement Co-ordinator contributed to the facilitation of students to pursue career opportunities.
 
 * **Other interests:** 
-Yoga, [Blogging](https://excerptoflife.wordpress.com/), [Finance](https://www.instagram.com/financememers/) 
-  
-
-
+[Blogging](https://excerptoflife.wordpress.com/), [Finance](https://www.instagram.com/financememers/) 
 
