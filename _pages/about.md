@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * **Master of Science in Electrical, Information Technology and Computer Engineering** <br>			
-RWTH Aachen University, Germany: <div style="text-align: right"> 2021 - 2024 (expected) </div> 
+<pre> RWTH Aachen University, Germany: 				</pre> 
   * **Specialization Track:** Systems and Automation 
   * **Grade:** 1.9/4.0 German Scale
   * **Relevant Courses:** 1. Machine Learning 2. Control and Perception of Autonomous Vehicles 3. Artificial Intelligence 4. Robotics 5. Automated and Connected Driving 6. Modelling, Identification and Control of Mechatronic Systems.
