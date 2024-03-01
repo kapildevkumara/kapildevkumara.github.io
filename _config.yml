@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mr"
+title                    : "Kapil Dev Kumae"
 title_separator          : "."
 name                     : &name "Kapil Dev Kumar"
 description              : &description "My Portfolio"
@@ -31,7 +31,7 @@ author:
   email            : #"" 
 
   # Repositories and software development
-  github           : "academicpages"
+  github           : "kapildevkumara"
 
   # Social media
   linkedin         : kapildevkumar
