@@ -81,6 +81,9 @@ Developed modules for Perception and Navigation:  <br>
 * **[Two-Wheeled Self-Balancing Robot, funded by SSN College of Engineering:](https://github.com/kapildevkumara/Self_Balancing_Bot)** (Apr 2018) 	  
 Constructed a two-wheeled self-balancing robot with Arduino, encoders and IMUs. Deployed sensor fusion with PID, and LQR control algorithms to stabilize the orientation of the robot under external disturbances. Analysed the stability and controller performance in Matlab.  
         
+* **[Music and Voice Separation:](https://github.com/kapildevkumara/REPET_Python)** (Apr 2018) 	  
+Implemented 'REPET' signal processing technique for separating music and voice in an audio mixture by identifying and extracting the repeating musical structure.
+
 * **Modeling and control of Aerothrust Pendulum:** &emsp; (Sep 2016)	 <br>
 Conceptualized the mathematical model, performing system identification and state analysis of the response of the Aerothrust Pendulum. Implemented PID control for the system in FPGA with Model-Based Design using Matlab and Xilinx System Generator. 
 
