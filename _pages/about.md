@@ -64,10 +64,13 @@ Projects
 * **Automatic mini-bullseye board at MedIT, RWTH Aachen:**  &emsp; (Jun 2022) <br>		
 Designed a scaled-down replica of an autonomous bullseye dartboard featuring a dynamic arm equipped with a camera and Jetson Nano. Achieved real-time ball trajectory tracking and interception using image processing and control. 
 
-* **Snake game with Path Planning:** &emsp; (Jan 2021)  <br>
+* **[Snake game with Path Planning:](https://github.com/kapildevkumara/Py_Snake_Game)** &emsp; (Jan 2021)  <br>
 Programmed the Classical Snake Game with OpenCV in Python. Automated the snake (robot) movement using path planning algorithms for intelligent navigation of the snake towards the goal. 
 
-* **3D Object Recognizer:** &emsp; (Apr 2020)	<br>
+* **[Whatsapp Hack Bot:](https://github.com/kapildevkumara/Whatsapp_Bot)** &emsp; (Apr 2020)	<br>
+Developed a WhatsApp web Bot to securely encrypt messages with personalized encryption with Selenium. This can hack the last seen of your contacts and also securing your messages from Whatsapp itself ;D
+
+* **[3D Object Recognizer:](https://github.com/kapildevkumara/Deep-Object-Recognizer)** &emsp; (Apr 2020)	<br>
 Built a real-time object detection model using Intel Realsense Stereo Camera. Computed the 3D Coordinates of the user-defined object detected by a Single Shot Detection Model and Disparity Map. 
 
 * **Robotic Perception with OpenCV:** &emsp; (Jan 2019)  <br>		
@@ -75,7 +78,7 @@ Developed modules for Perception and Navigation:  <br>
 1.Stereo & mono camera calibration for determining of intrinsic & extrinsic camera matrix.  <br>	
 2.Pose estimation using ArUco Markers for accurate pose estimation and navigation. 
 
-* **Two-Wheeled Self-Balancing Robot, funded by SSN College of Engineering:** (Apr 2018) 	  
+* **[Two-Wheeled Self-Balancing Robot, funded by SSN College of Engineering:](https://github.com/kapildevkumara/Self_Balancing_Bot)** (Apr 2018) 	  
 Constructed a two-wheeled self-balancing robot with Arduino, encoders and IMUs. Deployed sensor fusion with PID, and LQR control algorithms to stabilize the orientation of the robot under external disturbances. Analysed the stability and controller performance in Matlab.  
         
 * **Modeling and control of Aerothrust Pendulum:** &emsp; (Sep 2016)	 <br>
