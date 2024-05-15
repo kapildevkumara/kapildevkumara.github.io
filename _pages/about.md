@@ -30,7 +30,7 @@ Education
 Work experience
 ======
 * **Masters Student Research Assistant, Institute for Man-Machine Interaction (Robotics)**  <br>
-RWTH Aachen University, Aachen, Germany: &emsp; Jun 2023 - Dec 2023
+[MMI, RWTH Aachen University, Aachen, Germany](https://www.mmi.rwth-aachen.de/): &emsp; Jun 2023 - Dec 2023
   * Developed Python package installer for Verosim 3D simulations software. 
   * Worked on modelling and evaluation of kinematic sensor models (Lidar, camera) in Verosim for ADAS application. 
 
